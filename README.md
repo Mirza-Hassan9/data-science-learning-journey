@@ -21,7 +21,7 @@ I'm Mirza Hassan Baig, a BS Data Science student building my skills in programmi
 *My projects will be added here as I progress through my learning journey.*
 
 ## 🤝 Connect With Me
-- LinkedIn: [My LinkedIn Profile](PASTE_YOUR_LINKEDIN_URL_HERE)
+- LinkedIn: https://www.linkedin.com/in/mirza-hassan-baig-863175284/
 
 ---
 
